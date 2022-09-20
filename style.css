@@ -1,0 +1,16 @@
+.news-container .card-title {
+  background: rgba(0, 0, 0, 0.7);
+}
+.progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  z-index: 1;
+}
+.news-container .grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-flow: dense;
+}
