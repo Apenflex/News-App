@@ -14,3 +14,6 @@
   grid-template-columns: 1fr 1fr;
   grid-auto-flow: dense;
 }
+.container {
+  width: 1170px;
+}
